@@ -1,0 +1,1 @@
+COLOR: str = 'green'
